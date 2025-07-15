@@ -1,13 +1,11 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/c8feb585b6b277f9242c6.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡+𝐗𝐃+🖤+🥀"></b></h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- 👁 Visitor Counter -->
 <p align="center">
-<img src="https://files.catbox.moe/yi9mms.jpg" alt="93.5 Red Fm Logo" width="500px">
+  <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
 </p>
-
-<h1 align="center">𝟵𝟯.𝟱 𝗥𝗘𝗗 𝗙𝗠🎧 [ ɴᴏ ᴀᴅʂ ]</h1>
-
-<p align="center">
-  <b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b>
-</p>
-
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
 <p align="center">
   <a href="https://t.me/Silenthrex"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Silenthrex" alt="Support Channel"></a>
   <a href="https://t.me/ShrutiBotSupport"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
